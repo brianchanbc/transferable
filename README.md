@@ -1,6 +1,10 @@
 # An iOS app for managing restaurant reservations
 
-![Image 1](app_1.png) ![Image 2](app_2.png) ![Image 3](app_3.png)
+<p float="left">
+  <img src="./app_1.png" width="30%" />
+  <img src="./app_2.png" width="30%" /> 
+  <img src="./app_3.png" width="30%" />
+</p>
 
 ## YouTube Demo
 
@@ -8,6 +12,7 @@ Click [Here](https://youtube.com/shorts/gjIliip9jkQ?feature=shared)
 
 ## Technologies
 
+- iOS Development
 - Swift
 - SwiftUI
 - SwiftData
